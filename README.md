@@ -28,7 +28,7 @@ Sua tarefa é criar uma RESTful API e telas capazes de registrar essas informaç
 * Frontend deve ser criado com Angular.
 * Você pode escolher entre os bancos de dados SQL Server ou Oracle.
 * Você pode usar qualquer outra tecnologia que você acha necessario ou legal.
-* De o seu melhor.
+* Dê o seu melhor.
 
 
 ## User Stories
